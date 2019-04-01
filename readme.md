@@ -7,4 +7,4 @@
 - In advanced settingd Select your Subnet Group and Security group created previously and click create.
 - Wait for your cluster to be available and click on your cluster node.
 - Copy the endpoint and the port, go to the source code and paste the information.
-- Run npm install redis
+- Run npm install redis and run index.js
